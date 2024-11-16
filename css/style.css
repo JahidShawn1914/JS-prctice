@@ -1,0 +1,10 @@
+.box{
+    padding: 20px;
+    box-shadow: 0px 20px 40px 0px #0000001A;
+    color:#337A5B;
+    border-radius: 10px;
+}
+.box:hover{
+    background-color: #337A5B;
+    color: white;
+}
